@@ -1,7 +1,4 @@
 # IPA-Converter
-simple app, creates an .ipa file from your .app file.
-for conveniance.
-
-yea, it doesnt work, maybe ill fix it eventually.
-
-oh and its not even here
+so pretty much you open it and select your .app file
+then you will rename it to Payload and keep the .ipa
+now its good
