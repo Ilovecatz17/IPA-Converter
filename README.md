@@ -5,4 +5,6 @@ then you will rename it to Payload and keep the .ipa
 
 now its good
 
+doesnt work i think
+
 this is only for mac i dont have a windows computer
